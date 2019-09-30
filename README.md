@@ -1,11 +1,11 @@
 # credit_approval
-predict credit card approval based on machine learnin algorithms
+predict credit card approval based on machine learning algorithms
 
 ## Summary
 <p>
-The goal of this project to predict credit card approval based on machine learnin algorithms.
+The goal of this project to predict credit card approval based on machine learning algorithms.
 In principle the data science workflow conducted here could be incorporated into 
-a production system supporting financial instutitions like banks or other financial service companies
+a production system supporting financial institutions like banks or other financial service companies
 to make decisions in short time frames. The decision boils down to approve or reject the application
 for a credit card.
 </p> 
